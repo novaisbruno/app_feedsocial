@@ -4,7 +4,7 @@ import LinearGradient from 'react-native-linear-gradient';
 import { StyleSheet } from 'react-native';
 export default function Storys({data}){
   return (
-    <Box flex={1} marginBottom={4} padding={2} borderRadius={4}>
+    <Box flex={1} padding={2} borderRadius={4}>
         <LinearGradient
             colors={['#4c669f', '#3b5998', '#192f6a']}
             style={styles.linearGradient}
