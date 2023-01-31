@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Feed App
 [![NPM](https://img.shields.io/github/license/novaisbruno/app_feedsocial)](https://github.com/novaisbruno/app_feedsocial/blob/main/License) 
 
 # Sobre o projeto
